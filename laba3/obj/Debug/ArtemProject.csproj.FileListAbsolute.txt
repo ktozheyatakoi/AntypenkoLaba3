@@ -1,0 +1,6 @@
+C:\Users\Simon\source\repos\ArtemProject\bin\Debug\ArtemProject.exe.config
+C:\Users\Simon\source\repos\ArtemProject\bin\Debug\ArtemProject.exe
+C:\Users\Simon\source\repos\ArtemProject\bin\Debug\ArtemProject.pdb
+C:\Users\Simon\source\repos\ArtemProject\obj\Debug\ArtemProject.csprojAssemblyReference.cache
+C:\Users\Simon\source\repos\ArtemProject\obj\Debug\ArtemProject.exe
+C:\Users\Simon\source\repos\ArtemProject\obj\Debug\ArtemProject.pdb
